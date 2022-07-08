@@ -1,6 +1,6 @@
-# untitled2
+# Flutter Automation Unit Testing By Gherkin Example
 
-A new Flutter project.
+A This project shows you how we can perform a automation unit testing by Gherkin
 
 ## Getting Started
 

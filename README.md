@@ -24,7 +24,7 @@ dependencies:
     flutter_gherkin: ^1.0.5
 ````
 
-#### 2. add the flutter_driver dependency in dev _dependencies  
+#### 2. Add the flutter_driver dependency in dev _dependencies  
 
 ````
 dev_dependencies:

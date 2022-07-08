@@ -1,6 +1,6 @@
-# Flutter Automation Unit Testing By Gherkin Example ( BDD  )
+# Flutter Automation Unit Testing By Gherkin Example (BDD)
 
-### BDD testing using Cucumber
+BDD testing using Cucumber
 
 ## Getting Started
 

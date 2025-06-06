@@ -56,10 +56,10 @@ This file contain the actual test cases that will be written in very simple unde
 Feature: Main Screen Validates and then Logins and Checks if each product clicks are ok
 
     Scenario: Validates the email when text is entered
-        When I fill the "clientCodeEditText" field with "TB15219"
+        When I fill the "clientCodeEditText" field with "EMPID"
         Then I tap the "loginBtn" button
         Then I have "PasswordPage" on screen
-        When I fill the "passwordEditText" field with "Akshat@78902"
+        When I fill the "passwordEditText" field with "PASSWORD"
         Then I tap the "passwordButton" button
 ````
 
